@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Jhon Llyod Garcia an IT student at the New Era University!
 
 <!--
 **jllyod/jllyod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
